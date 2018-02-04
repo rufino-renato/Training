@@ -1,0 +1,8 @@
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\Exercise 3\Start\MyTunes.NetStandard\bin\Release\netstandard1.0\MyTunes.NetStandard.deps.json
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\Exercise 3\Start\MyTunes.NetStandard\bin\Release\netstandard1.0\MyTunes.NetStandard.dll
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\Exercise 3\Start\MyTunes.NetStandard\bin\Release\netstandard1.0\MyTunes.NetStandard.pdb
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\Exercise 3\Start\MyTunes.NetStandard\obj\Release\netstandard1.0\MyTunes.NetStandard.csproj.CoreCompileInputs.cache
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\Exercise 3\Start\MyTunes.NetStandard\obj\Release\netstandard1.0\MyTunes.NetStandard.AssemblyInfoInputs.cache
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\Exercise 3\Start\MyTunes.NetStandard\obj\Release\netstandard1.0\MyTunes.NetStandard.AssemblyInfo.cs
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\Exercise 3\Start\MyTunes.NetStandard\obj\Release\netstandard1.0\MyTunes.NetStandard.dll
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\Exercise 3\Start\MyTunes.NetStandard\obj\Release\netstandard1.0\MyTunes.NetStandard.pdb

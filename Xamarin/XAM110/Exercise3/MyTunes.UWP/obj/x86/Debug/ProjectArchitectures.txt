@@ -1,0 +1,2 @@
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\Exercise 3\Start\MyTunes.Shared\MyTunes.Shared.csproj;neutral
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\Exercise 3\Start\MyTunes.UWP\MyTunes.UWP.csproj;x86
