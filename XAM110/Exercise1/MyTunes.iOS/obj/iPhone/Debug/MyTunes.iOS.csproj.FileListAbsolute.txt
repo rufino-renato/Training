@@ -1,0 +1,13 @@
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\XAM110-master\XAM110-master\Exercise 1\Start\MyTunes.iOS\bin\iPhone\Debug\MyTunesiOS.exe
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\XAM110-master\XAM110-master\Exercise 1\Start\MyTunes.iOS\bin\iPhone\Debug\MyTunesiOS.pdb
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\XAM110-master\XAM110-master\Exercise 1\Start\MyTunes.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\XAM110-master\XAM110-master\Exercise 1\Start\MyTunes.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\XAM110-master\XAM110-master\Exercise 1\Start\MyTunes.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\XAM110-master\XAM110-master\Exercise 1\Start\MyTunes.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\XAM110-master\XAM110-master\Exercise 1\Start\MyTunes.iOS\obj\iPhone\Debug\optimized\
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\XAM110-master\XAM110-master\Exercise 1\Start\MyTunes.iOS\obj\iPhone\Debug\MyTunes.iOS.csprojResolveAssemblyReference.cache
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\XAM110-master\XAM110-master\Exercise 1\Start\MyTunes.iOS\obj\iPhone\Debug\MyTunes.iOS.csproj.CoreCompileInputs.cache
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\XAM110-master\XAM110-master\Exercise 1\Start\MyTunes.iOS\obj\iPhone\Debug\MyTunesiOS.exe
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\XAM110-master\XAM110-master\Exercise 1\Start\MyTunes.iOS\obj\iPhone\Debug\MyTunesiOS.pdb
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\XAM110-master\XAM110-master\Exercise 1\Start\MyTunes.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\rufin\Documents\rufino.renato\projects\xamarin\XAM110-master\XAM110-master\Exercise 1\Start\MyTunes.iOS\bin\iPhone\Debug\Newtonsoft.Json.xml
