@@ -1,2 +1,0 @@
-C:\Users\rufin\Documents\rufino.renato\projects\xamarin\XAM110-master\XAM110-master\Exercise 2\Start\MyTunes.Shared\MyTunes.Shared.csproj;neutral
-C:\Users\rufin\Documents\rufino.renato\projects\xamarin\XAM110-master\XAM110-master\Exercise 2\Start\MyTunes.UWP\MyTunes.UWP.csproj;x86
